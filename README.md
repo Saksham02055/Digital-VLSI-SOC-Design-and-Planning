@@ -1,4 +1,4 @@
-<img width="1602" height="796" alt="image" src="https://github.com/user-attachments/assets/88530dc3-4bb5-4840-8c65-c054e7749f40" /># Digital-VLSI-SOC-Design-and-Planning
+# Digital-VLSI-SOC-Design-and-Planning
 NASSCOM-PD 19December_28December_2025 - PHYSICAL DESIGN WORKSHOP 
 
 ##Day 1: Inception of Open source EDA, Openlane and SKY 130 PDKs
